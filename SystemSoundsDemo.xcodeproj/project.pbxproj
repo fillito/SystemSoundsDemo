@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		88E4B64415EA341600A9B865 /* SystemSoundsDemo */ = {
+		88E4B64415EA341600A9B865 /* SystemSounds */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 88E4B65D15EA341600A9B865 /* Build configuration list for PBXNativeTarget "SystemSoundsDemo" */;
+			buildConfigurationList = 88E4B65D15EA341600A9B865 /* Build configuration list for PBXNativeTarget "SystemSounds" */;
 			buildPhases = (
 				88E4B64115EA341600A9B865 /* Sources */,
 				88E4B64215EA341600A9B865 /* Frameworks */,
@@ -120,7 +120,7 @@
 			);
 			dependencies = (
 			);
-			name = SystemSoundsDemo;
+			name = SystemSounds;
 			productName = SystemSoundsDemo;
 			productReference = 88E4B64515EA341600A9B865 /* SystemSoundsDemo.app */;
 			productType = "com.apple.product-type.application";
@@ -146,7 +146,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				88E4B64415EA341600A9B865 /* SystemSoundsDemo */,
+				88E4B64415EA341600A9B865 /* SystemSounds */,
 			);
 		};
 /* End PBXProject section */
@@ -270,7 +270,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88E4B65D15EA341600A9B865 /* Build configuration list for PBXNativeTarget "SystemSoundsDemo" */ = {
+		88E4B65D15EA341600A9B865 /* Build configuration list for PBXNativeTarget "SystemSounds" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88E4B65E15EA341600A9B865 /* Debug */,
