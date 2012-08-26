@@ -5,6 +5,7 @@ This is just a demo of how to use iOS AudioServices API to play a system sound
 
 In this demo you could test all the avaiable system sounds.
 
+<img src="https://raw.github.com/fillito/SystemSoundsDemo/master/screenshot.png" />
 
 ## How to use AudioServices in your application
 
