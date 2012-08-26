@@ -27,7 +27,7 @@ AudioServicesPlaySystemSound(1000);
 
 
 ## License
-Copyright 2012 [Daniel García](http://twitter.com/fillito) (ios@fillito.com)
+Copyright 2012 [Daniel García](http://www.fillito.com) (ios@fillito.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
