@@ -16,6 +16,7 @@
 		88E4B66315EA342400A9B865 /* SystemSoundsDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88E4B66115EA342400A9B865 /* SystemSoundsDemoViewController.m */; };
 		88E4B66415EA342400A9B865 /* SystemSoundsDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88E4B66215EA342400A9B865 /* SystemSoundsDemoViewController.xib */; };
 		88E4B66615EA498F00A9B865 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88E4B66515EA498F00A9B865 /* AudioToolbox.framework */; };
+		88E4B66C15EA4F5000A9B865 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 88E4B66B15EA4F5000A9B865 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		88E4B66115EA342400A9B865 /* SystemSoundsDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SystemSoundsDemoViewController.m; sourceTree = "<group>"; };
 		88E4B66215EA342400A9B865 /* SystemSoundsDemoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SystemSoundsDemoViewController.xib; sourceTree = "<group>"; };
 		88E4B66515EA498F00A9B865 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		88E4B66B15EA4F5000A9B865 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		88E4B64F15EA341600A9B865 /* SystemSoundsDemo */ = {
 			isa = PBXGroup;
 			children = (
+				88E4B66B15EA4F5000A9B865 /* README.md */,
 				88E4B65815EA341600A9B865 /* AppDelegate.h */,
 				88E4B65915EA341600A9B865 /* AppDelegate.m */,
 				88E4B66015EA342400A9B865 /* SystemSoundsDemoViewController.h */,
@@ -155,6 +158,7 @@
 			files = (
 				88E4B65415EA341600A9B865 /* InfoPlist.strings in Resources */,
 				88E4B66415EA342400A9B865 /* SystemSoundsDemoViewController.xib in Resources */,
+				88E4B66C15EA4F5000A9B865 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +277,7 @@
 				88E4B65F15EA341600A9B865 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

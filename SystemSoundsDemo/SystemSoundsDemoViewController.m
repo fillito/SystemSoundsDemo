@@ -71,7 +71,7 @@
     // Configure the cell...
     NSDictionary *systemSoundItem=[self.systemSounds objectAtIndex:indexPath.row];
     cell.textLabel.text=[systemSoundItem valueForKey:@"category"];
-    cell.detailTextLabel.text=[[systemSoundItem valueForKey:@"iphoneFileName"]stringByReplacingOccurrencesOfString:@".caf" withString:@""];
+    cell.detailTextLabel.text=[NSString stringWithFormat:@"SoundID: %@ (%@)",[systemSoundItem valueForKey:@"soundId"],[[systemSoundItem valueForKey:@"iphoneFileName"]stringByReplacingOccurrencesOfString:@".caf" withString:@""]];
     
     return cell;
 }
